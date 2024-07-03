@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhuvanas
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Machine Learning for AI
+- 🌱 I’m currently learning Machine Learning for Healthcare Solutions! 
 - 💞️ I’m looking to collaborate on Healthcare Data Science Projects
 - 📫 How to reach me abiniru2015@gmail.com
 - 😄 Pronouns: He/Him
